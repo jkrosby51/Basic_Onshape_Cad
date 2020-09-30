@@ -18,3 +18,7 @@
   This part required more features and sketches than the other two combined. I already knew how to use all of the features shown in this part, however I had not used
   them in Onshape so I learned where to find new features, including Fillets, Chamfers, Mirrors, and also just creating new sketches off of different faces of the
   part.
+
+**Wheel**
+
+  This part was simple but it also introduced the revolve feature as well as the symmetry feature.
