@@ -19,6 +19,6 @@
   them in Onshape so I learned where to find new features, including Fillets, Chamfers, Mirrors, and also just creating new sketches off of different faces of the
   part.
 
-**Wheel**
+**Tire**
 
   This part was simple but it also introduced the revolve feature as well as the symmetry feature.
