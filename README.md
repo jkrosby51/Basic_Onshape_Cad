@@ -22,3 +22,9 @@
 **Tire**
 
   This part was simple but it also introduced the revolve feature as well as the symmetry feature.
+
+**Wheel**
+  
+  This part took more time to make as it introduced multiple new features as well as utilized features we already learned. While making this part I learned that Onshape   lets you choose parts of sketches when extruding, how to use circular patterns, and changing the viewing style to help efficiency. I also made this in the same part
+  studio as the tire and had to make sure they fit together. While working on the wheel I supressed the features and sketches that made the tire so that it wouldn't be
+  in the way.
