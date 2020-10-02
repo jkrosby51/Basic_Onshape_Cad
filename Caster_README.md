@@ -7,11 +7,13 @@
 
 **Base**
   
-  The base is a fairly simple part so it didn't take long to make.
+  The Base is a very simple part. It helped me get an understanding for some of Onshapes differences from Solidworks.
+  <img src="Basic_Onshape_Cad/Images/JKrosby.Base.png" alt="Base"
+	title="Base" width="150" height="100" />
   
 **Mount**
   
-  The Mount was even simpler, so again it didnt take much time or thought to create this part.
+  I didn't learn anything new making this part.
   
 **Fork**
 
@@ -21,10 +23,13 @@
 
 **Tire**
 
-  This part was simple but it also introduced the revolve feature as well as the symmetry feature.
+  I didn't learn anything new while making this part.
 
 **Wheel**
   
-  This part took more time to make as it introduced multiple new features as well as utilized features we already learned. While making this part I learned that Onshape   lets you choose parts of sketches when extruding, how to use circular patterns, and changing the viewing style to help efficiency. I also made this in the same part
-  studio as the tire and had to make sure they fit together. While working on the wheel I supressed the features and sketches that made the tire so that it wouldn't be
-  in the way.
+  This part took more time to make as it introduced multiple new features as well as utilized features we already learned. While making this part I learned that Onshape   lets you choose parts of sketches when extruding.
+  
+**Overall*
+
+  So far I like Onshape more than Solidworks because it's online nature is more convenient and some of the other convenience features such as extruding parts of
+  sketches.
