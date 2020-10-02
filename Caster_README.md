@@ -10,14 +10,14 @@
   The Base is a very simple part. It helped me get an understanding for some of Onshapes differences from Solidworks.
   
   <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Base.png" alt="Base"
-	title="Base" width="611" height="340" />
+	title="Base" width="306" height="170" />
   
 **Mount**
   
   I didn't learn anything new making this part.
   
-    <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Mount.png" alt="Mount"
-	title="Mount" width="471" height="419" />
+   <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Mount.png" alt="Mount"
+	title="Mount" width="236" height="208" />
 	
 **Fork**
 
@@ -26,21 +26,21 @@
   part.
   
   <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Fork.png" alt="Fork"
-	title="Fork" width="507" height="509" />
+	title="Fork" width="253" height="254" />
 	
 **Tire**
 
   I didn't learn anything new while making this part.
   
   <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Tire.png" alt="Tire"
-	title="Tire" width="646" height="498" />
+	title="Tire" width="322" height="249" />
 	
 **Wheel**
   
   This part took more time to make as it introduced multiple new features as well as utilized features we already learned. While making this part I learned that Onshape   lets you choose parts of sketches when extruding.
   
-    <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.WheelTire.png" alt="WheelTire"
-	title="WheelTire" width="541" height="509" />
+   <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.WheelTire.png" alt="WheelTire"
+	title="WheelTire" width="270" height="254" />
 	
 **Overall**
 
