@@ -42,7 +42,6 @@
    <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.WheelTire.png" alt="WheelTire"
 	title="WheelTire" width="270" height="254" />
 	
-**Overall**
-
-  So far I like Onshape more than Solidworks because it's online nature is more convenient and some of the other convenience features such as extruding parts of
-  sketches.
+**Axle, Collar, and Bearings**
+	
+  These parts didn't introduce much other than using dimentions from other parts.
