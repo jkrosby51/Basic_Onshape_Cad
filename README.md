@@ -48,3 +48,10 @@
   
   <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Axle.png" alt="Axle"
 	title="Axle" width="322" height="249" />
+	
+**Sub Assembly**
+
+  I learned about revolute and fastened mates in Onshape and bringing parts into assemblies.
+
+  <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.SubAssembly.png" alt="Sub Assembly"
+	title="Sub Assembly" width="280" height="240" />
