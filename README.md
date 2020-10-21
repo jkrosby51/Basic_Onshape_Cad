@@ -44,4 +44,7 @@
 	
 **Axle, Collar, and Bearings**
 	
-  These parts didn't introduce much other than using dimentions from other parts.
+  These parts didn't introduce much other than using dimentions from other parts. 
+  
+  <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Axle.png" alt="Axle"
+	title="Axle" width="322" height="249" />
