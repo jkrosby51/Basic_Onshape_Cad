@@ -60,5 +60,5 @@
 
 During the final assembly I learned about Onshapes standard content feature for inserting screws and such. I practiced the different mates that Onshape uses, and I completed the caster mini project. Overall during this project, while I had already done this last year, I learned all about Onshape and it's features. I really like Onshape, more so than SolidWorks, because it's just very convenient, especially during these online classes.
 
-  <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.Base.png" alt="Final Assembly"
+  <img src="https://github.com/jkrosby51/Basic_Onshape_Cad/blob/master/Images/JKrosby.FinalAssembly.png" alt="Final Assembly"
 	title="Final Assembly" width="360" height="255" />
